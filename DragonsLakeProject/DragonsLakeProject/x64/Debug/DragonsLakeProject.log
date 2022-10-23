@@ -1,0 +1,50 @@
+﻿  RNG.cpp
+  actor.cpp
+  ball.cpp
+  brick.cpp
+  buff.cpp
+  main.cpp
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(62,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(62,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(63,88): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(63,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(70,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(70,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(74,87): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(74,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(88,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(88,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(98,87): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(98,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(111,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(111,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(113,91): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(113,66): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(117,91): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(117,66): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(225,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(250,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(250,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(251,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(256,72): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(256,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(260,72): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(260,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(264,84): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(264,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(268,84): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(268,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(272,84): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(272,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(276,84): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(276,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(280,84): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(280,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(373,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(377,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(485,58): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\main.cpp(485,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  platform.cpp
+  screen_settings.cpp
+  Создание кода...
+  DragonsLakeProject.vcxproj -> C:\Users\ASUS\Desktop\DragonsLakeProject\x64\Debug\DragonsLakeProject.exe

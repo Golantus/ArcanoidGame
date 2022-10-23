@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\</FILEPATH>
+      <FILENAME>RNG.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>59</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "+" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "+", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>getRandomNumber</FUNCTION>
+    <DECORATED>?getRandomNumber@@YAHHH@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\</FILEPATH>
+      <FILENAME>RNG.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>53</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "-" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "-", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>getRandomNumber</FUNCTION>
+    <DECORATED>?getRandomNumber@@YAHHH@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

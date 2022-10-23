@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\</FILEPATH>
+      <FILENAME>ball.cpp</FILENAME>
+      <LINE>46</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "Ball::dX" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>Ball::{ctor}</FUNCTION>
+    <DECORATED>??0Ball@@QEAA@HHH@Z</DECORATED>
+    <FUNCLINE>46</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Ball::dX</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\</FILEPATH>
+      <FILENAME>ball.cpp</FILENAME>
+      <LINE>46</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "Ball::dY" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>Ball::{ctor}</FUNCTION>
+    <DECORATED>??0Ball@@QEAA@HHH@Z</DECORATED>
+    <FUNCLINE>46</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Ball::dY</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

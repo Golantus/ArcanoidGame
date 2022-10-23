@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "MyFramework::brickArray" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>MyFramework::{ctor}</FUNCTION>
+    <DECORATED>??0MyFramework@@QEAA@HH_N@Z</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>MyFramework::brickArray</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "MyFramework::platform" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>MyFramework::{ctor}</FUNCTION>
+    <DECORATED>??0MyFramework@@QEAA@HH_N@Z</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>MyFramework::platform</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "MyFramework::ball" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>MyFramework::{ctor}</FUNCTION>
+    <DECORATED>??0MyFramework@@QEAA@HH_N@Z</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>MyFramework::ball</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "MyFramework::coursor" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>MyFramework::{ctor}</FUNCTION>
+    <DECORATED>??0MyFramework@@QEAA@HH_N@Z</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>MyFramework::coursor</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

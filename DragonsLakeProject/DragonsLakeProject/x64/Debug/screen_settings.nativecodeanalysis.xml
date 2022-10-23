@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\</FILEPATH>
+      <FILENAME>screen_settings.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6269</DEFECTCODE>
+    <DESCRIPTION>Возможно, неправильный порядок операций.</DESCRIPTION>
+    <FUNCTION>screen_settings</FUNCTION>
+    <DECORATED>?screen_settings@@YAXPEAH0PEA_NHQEAPEBD@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ASUS\Desktop\DragonsLakeProject\DragonsLakeProject\</FILEPATH>
+      <FILENAME>screen_settings.cpp</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6269</DEFECTCODE>
+    <DESCRIPTION>Возможно, неправильный порядок операций.</DESCRIPTION>
+    <FUNCTION>screen_settings</FUNCTION>
+    <DECORATED>?screen_settings@@YAXPEAH0PEA_NHQEAPEBD@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
